@@ -12,9 +12,8 @@ What is Containerization?<br>
 **Portability**: Easily move apps between environments, making development and deployment smoother.<br>
 **Cloud-Readiness**: Perfect for modern cloud-based development processes.<br>
 
-**Docker**: Install Docker on your system. You can find instructions on the official Docker website: https://docs.docker.com/get-docker/
-**Basic Docker Knowledge**: It's good to know commands like docker build, docker run, and docker ps.
-Specific Instructions
+**Docker**: Install Docker on your system. You can find instructions on the official Docker website: https://docs.docker.com/get-docker/<br>
+**Basic Docker Knowledge**: It's good to know commands like docker build, docker run, and docker ps.<br>
 
 
 Let's Build Together!
